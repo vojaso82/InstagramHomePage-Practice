@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+body{
+  font-family:'Poppins';
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  background: linear-gradient(0deg,white 60%,#06365F 25%, #3f729b);
+  height:960px;
+  
+  
+}
+section {
+  display:flex;
+  justify-content:space-around;
+  margin-top:120px;
+  padding:0 150px;
+}
+
+.logo-picture{
+  width:300px; 
+}
+h1{
+  color:#4169E1;
+  font-size:20px;
+}
+
+footer ul{
+ 
+  color:#4c68d7;
+  list-style: none;
+  font-weight: bold;
+  text-align:center;
+  display:flex;
+  justify-content:space-around;
+  
+}
+
+#instagram{
+  color:grey;
+}
+
+.logo img{
+  display:flex;
+  background-color:;
+  justify-content:space-between;
+  
+}
+.login-button{
+  background-color:#4169E1;
+  font-size:15px;
+  color:white;
+  padding:10px 30px;
+  border-radius:4px; 
+  height:50px;
+  
+}
+
+.login-logo{
+  display:flex;
+  justify-content:space-between;
+  padding-right: 110px;
+  align-items:center;
+  
+}
+.instagram-body{
+  padding:70px 0;
+}
+
+.text{
+  margin-left:40px;
+}
+.buttons{
+  display:flex;
+  align-items:center;
+  justify-content:space-around;
+  height:100px;
+  width:400px;
+  margin-left:15px;
+}
+#appstore{
+  width:150px;
+}
+#googlestore{
+  width:160px;
+}
+.footer{
+  width:600px;
+  font-size:12px;
+}
+.text{
+
+ 
+ 
+}
